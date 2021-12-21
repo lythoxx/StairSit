@@ -1,0 +1,7 @@
+name: StairSit
+version: 0.1.0
+api-version: 1.17
+author: lythox
+website: github.com/lythoxx
+description: A simple plugin to let the player sit on stairs
+main: me.lythox.main.Main
